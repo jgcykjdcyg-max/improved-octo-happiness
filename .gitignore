@@ -1,0 +1,4 @@
+# Operating-system and Python build artifacts
+.DS_Store
+__pycache__/
+*.py[cod]
