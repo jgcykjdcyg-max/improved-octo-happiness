@@ -2,3 +2,6 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+
+# Stored as LFS parts; rebuild with ios internals/reassemble.sh
+ios internals/Mac OS X and iOS Internals.mp4
